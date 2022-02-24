@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The project for repealing the penal laws and tests, with the honorable means used to effect it being a preface to a treatise concerning the penal laws and tests.</title>
+            <author>Maurice, Henry, 1648-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50339</idno>
+            <idno type="STC">Wing M1368</idno>
+            <idno type="STC">ESTC R24381</idno>
+            <idno type="EEBO-CITATION">08163724</idno>
+            <idno type="OCLC">ocm 08163724</idno>
+            <idno type="VID">40974</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50339)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40974)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1235:4 or 2213:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The project for repealing the penal laws and tests, with the honorable means used to effect it being a preface to a treatise concerning the penal laws and tests.</title>
+                  <author>Maurice, Henry, 1648-1691.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Item at reel 2213:24 identified as Wing P3655B.</note>
+                  <note>Reproduction of originals in the University of Illinois (Urbana-Champaign Campus). Library and British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  Legal status, laws, etc. --  England.</term>
+               <term>Catholics --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:40974:1"/>
+            <!-- PDF PAGE 58 -->
+            <pb n="1" facs="tcp:40974:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 58 -->
+            <head>The Project for Repealing the <hi>Penal Laws</hi> and <hi>Teſts,</hi> with the Honor<g ref="char:EOLunhyphen"/>able Means uſed to effect it. Being a Preface to a Treatiſe concerning the <hi>Penal Laws</hi> and <hi>Teſts.</hi>
+            </head>
+            <p>IT is now ſome years ſince the noble Enterprize of Removing the <hi>Penal Laws</hi> and <hi>Teſts,</hi> has been carried on by incredible Vigor and Application; and yet to the <hi>great Grief</hi> of the <hi>Catholick <g ref="char:V">Ʋ</g>ndertakers,</hi> the Succeſs does not hitherto ſeem to anſwer the meaſure of their Diligence or Expectation. All ſorts of Men, and all kinds of Arguments have been tried, and yet it is ſcarce to be perceived that the <hi>Cauſe</hi> is any thing advanced. The <hi>Church</hi> of <hi>England Men</hi> had the Honor of the firſt Sollicitation; and the <hi>Nobility</hi> and <hi>Gentry</hi> of that <hi>Communion,</hi> in conſideration of <hi>Former Services,</hi> ſuch as the <hi>Weſtern Action,</hi> &amp;c. had the offer of <hi>ingroſſing</hi> to themſelves the <hi>ſole Merit</hi> and <hi>Glory</hi> of <hi>Betraying</hi> their <hi>Religion</hi> and <hi>Country:</hi> the <hi>Court Arguments</hi> of <hi>Honor</hi> and <hi>Profit,</hi> heretofore accounted <hi>irreſiſtible,</hi> were not wanting on this occaſion. But this had no other Effect than the <hi>innumerable Vacancies</hi> of <hi>Civil</hi> and <hi>Military Employments</hi> that fell upon thoſe <hi>ſtiff Gentlemen</hi> as a <hi>Judgment</hi> for their <hi>refuſal.</hi> And <hi>ſome,</hi> whoſe <hi>whole Subſiſtence</hi> depended upon the <hi>Court,</hi> choſe rather to be <hi>deprived</hi> of all, and to be <hi>reduced</hi> from ſome of the <hi>chief Places</hi> of the <hi>Kingdom,</hi> to the <hi>utmoſt hardſhips</hi> of <hi>Life,</hi> than to <hi>join</hi> in this <hi>warlike Enterprize</hi> againſt the <hi>Laws.</hi> The <hi>Clergy</hi> who now ſeem to be in a ſtate of <hi>Reprobation,</hi> were <hi>ſmil'd upon</hi> as long as the <hi>Court</hi> had any <hi>hopes</hi> of them, and offer'd this great <hi>grace</hi> of <hi>ruining</hi> their <hi>own Church:</hi> and to <hi>encourage</hi> them to this <hi>pious Work, Preferments</hi> were promiſed; and becauſe none of any <hi>Reputation</hi> could be gain'd, the <hi>Black-Guard</hi> of the <hi>Church</hi> is call'd <hi>up Stairs,</hi> and <hi>admitted</hi> to the <hi>Cloſet,</hi> and <hi>Dung-hills</hi> are raked for <hi>Vermin</hi> to <hi>ſtink</hi> Men out of the <hi>Church. Saul</hi> was in great diſtreſs, when for want of a <hi>Prophet,</hi> he put his <hi>Queſtions</hi> to the <hi>Devil;</hi> for my part I cannot but look upon it as direct <hi>Necromancy</hi> to conſult Biſhop <hi>Talgol,</hi> ſince by the <hi>ſmell</hi> of the <hi>Carrion,</hi> it muſt be concluded to be more than <hi>four</hi> days <hi>dead;</hi> and it is not doubted by Men <hi>curious</hi> in <hi>ſecret Sciences,</hi> but that the <hi>Devil</hi> has ſomewhere or other robb'd a <hi>Gibbet</hi> to furniſh this <hi>apparition</hi> of a <hi>Prelat.</hi>
+            </p>
+            <p>When the <hi>Nobility</hi> and <hi>Clergy</hi> declin'd this <hi>Romantick Adventure</hi> againſt the <hi>Laws,</hi> a <hi>Preſs</hi> goes forth upon the <hi>Commonalty;</hi> in <hi>Corporations</hi> this was the Word, <hi>Give up the</hi> Penal Laws <hi>or your</hi> Charter, <hi>and Mr. Alderman, lay aſide the</hi> Teſt <hi>or your Fur-Gown.</hi> Nay this diligence deſcended ſo low, and grew ſo minute, that a <hi>blind Alehouſe</hi> could not eſcape the <hi>Queſtions; Why ſhould any one enjoy a</hi> Royal Licence <hi>to draw Ale, that would not ſtand by the</hi> Prerogative <hi>and</hi> Diſpenſing Power? Yet after all, the ſucceſs of this admirable negotiation was ſo unſatisfa<g ref="char:EOLhyphen"/>ctory, that <hi>B. H.</hi> ſwore to his <hi>Landlord</hi> at <hi>Wincheſter, That the Diſobedience of his Brethren of the</hi> Blue Apron <hi>had brought upon them the</hi> Proclamation <hi>againſt</hi> Debau<g ref="char:EOLhyphen"/>chery. Nay, ſo great was the <hi>Condeſcenſion,</hi> as not to paſs by the very <hi>Goals:</hi> Where</p>
+            <pb facs="tcp:40974:2"/>
+            <!-- PDF PAGE 59 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="1" facs="tcp:40974:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 59 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:40974:3"/>
+            <!-- PDF PAGE 60 -->
+            <gap reason="missing" extent="2 pages">
+               <desc>〈2 pages missing〉</desc>
+            </gap>
+            <p>
+               <hi>Truſted, becauſe it was againſt their principle to keep their Faith with</hi> Hereticks. Dear Friend <hi>William,</hi> how ſhall we reconcile theſe things with the <hi>new Ex<g ref="char:EOLhyphen"/>pedient?</hi> How is it that <hi>ſweet</hi> and <hi>bitter</hi> proceed from the ſome <hi>Fountain?</hi> And ſince theſe <hi>Lights</hi> lead different ways, for Gods ſake tell us which we ſhall follow.</p>
+            <p>Many other <hi>Writers</hi> of <hi>leſſer Note,</hi> ſhew'd their <hi>good Will</hi> and <hi>Learning</hi> upon this great <hi>Subject,</hi> and gave the <hi>Penal Laws</hi> ſuch <hi>hard Names,</hi> as <hi>Draconica, Canni<g ref="char:EOLhyphen"/>bal, Blood-ſucking, Sanguinary, Barbarous, Inhuman,</hi> &amp;c. that a <hi>Serjeant</hi> of the <hi>laſt Call</hi> is ſaid to be ſo far <hi>tranſported,</hi> as to <hi>tear</hi> all thoſe <hi>Acts</hi> out of his <hi>Statute-Book,</hi> when he had firſt of all-deſired a <hi>Friend</hi> to ſhew him which they were. But of all that have <hi>ſignalliz'd</hi> themſelves by their <hi>oppoſition</hi> to the <hi>Penal Laws</hi> and <hi>Teſts,</hi> commend me to the <hi>Reverend Judges,</hi> who in theſe <hi>Circuits</hi> have done <hi>wonders,</hi> and <hi>aſtoniſhed</hi> all the <hi>Kingdom.</hi> The <hi>Atchievments</hi> of theſe <hi>Knights Errants,</hi> de<g ref="char:EOLhyphen"/>ſerve a particular <hi>Relation,</hi> and I hope they themſelves will pleaſe ſo far to <hi>com<g ref="char:EOLhyphen"/>ply</hi> with the <hi>publick Curioſity,</hi> as to permit their ſeveral <hi>Charges</hi> to be <hi>printed,</hi> and by this means make ſome <hi>amends</hi> for the <hi>diſappointment</hi> of the <hi>World,</hi> which has waited ſo long <hi>in vain</hi> for the <hi>Biſhops Tryal:</hi> In the mean time who can paſs by <hi>Alibone <hi>the Wiſe,</hi>
+               </hi> who in his <hi>Charge</hi> recommended to the <hi>Country</hi> the <hi>Be<g ref="char:EOLhyphen"/>lief</hi> of <hi>Tranſubſtantiation,</hi> and what is almoſt as <hi>repugnant</hi> to <hi>common ſenſe,</hi> he <hi>maintain'd</hi> that the <hi>Biſhops Petition</hi> was a <hi>Libel:</hi> It was kindly done of a <hi>Popiſh Judge</hi> to take the pains to recommend <hi>Proteſtant Biſhops</hi> to the <hi>Eſteem</hi> of the <hi>Country,</hi> by expreſſing his <hi>Indignation</hi> againſt them in ſo high a meaſure; ſurely every <hi>Proteſtant</hi> would be apt to believe that thoſe <hi>Biſhops</hi> had given ſome <hi>notable Check</hi> to the <hi>progreſs</hi> of <hi>Popery,</hi> that ſhould occaſion this <hi>pretended Judg</hi> to be ſo much <hi>inrag'd.</hi> After the <hi>Biſhops,</hi> he fell unmercifully upon the <hi>Laws,</hi> and ſaid many things againſt them of as much <hi>weight</hi> as his <hi>Commiſſion;</hi> but ſome of the <hi>Gentlemen</hi> preſent thought all this <hi>Harangue</hi> very impertinent; for they were of opinion, that his <hi>ſitting</hi> upon that <hi>Bench,</hi> took away the <hi>Laws</hi> more effectually than all the <hi>Reaſons</hi> he could alledg againſt them. What ſhall we do now the <hi>Laws</hi> and <hi>Judges</hi> are ſo deſperately faln out? When the <hi>Laws</hi> are againſt the <hi>Judges,</hi> what wonder is it if the <hi>Judges</hi> are againſt the <hi>Laws? Tyburn</hi> had of old the <hi>Right</hi> and the <hi>good Fortune</hi> of ending ſuch <hi>Controverſies</hi> by ſilencing the <hi>Judges,</hi> and I do not deſpair but this may expire together the <hi>Revilers</hi> of our <hi>Laws</hi> under the ſame <hi>fatal Tree,</hi> which without imputation of <hi>Superſtition,</hi> I may I hope, thus accoſt in Verſe:
+<q>
+                  <l>Old Reverend Tripos, Guardian of the Law,</l>
+                  <l>Sacred to Juſtice, Treaſons greateſt awe:</l>
+                  <l>Do thou decide the Nations weighty Cauſe,</l>
+                  <l>And judg between the Judges and the Laws.</l>
+                  <l>So ſhall no guiltleſs Blood thy Timber e'er pollute,</l>
+                  <l>And righteous Laws ſhall vouch all thou ſhalt execute.</l>
+               </q>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:40974:3"/>
+            <!-- PDF PAGE 60 -->
+         </div>
+      </body>
+   </text>
+</TEI>
